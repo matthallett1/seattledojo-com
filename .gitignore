@@ -39,3 +39,10 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# scraped WordPress images (880MB — originals in public/images/)
+/content/images/
+
+# local dev tooling
+/.claude/
+/.gstack/
