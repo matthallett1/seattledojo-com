@@ -47,7 +47,12 @@ Plans:
   3. The Instructors page lists all 22 current instructors by name
   4. The Schedule page displays weekly class times in a readable table
   5. The Contact page includes the address, phone, email, and an embedded Google Map
-**Plans**: TBD
+**Plans**: 4 plans
+Plans:
+- [ ] 02-01-PLAN.md — Homepage refinement: replace placeholder content with final scraped content and real images
+- [ ] 02-02-PLAN.md — Storytelling pages: About/History, What is Judo, Judo for Kids
+- [ ] 02-03-PLAN.md — Functional pages: Instructors, Schedule, Membership, Getting Started
+- [ ] 02-04-PLAN.md — Remaining pages: Contact (with map), News, Tournament
 **UI hint**: yes
 
 ### Phase 3: CMS Integration
@@ -78,7 +83,7 @@ Phases execute in numeric order: 1 → 2 → 3 → 4
 
 | Phase | Plans Complete | Status | Completed |
 |-------|----------------|--------|-----------|
-| 1. Design Foundation | 3/4 | In Progress|  |
-| 2. Content Pages | 0/TBD | Not started | - |
+| 1. Design Foundation | 4/4 | Complete |  |
+| 2. Content Pages | 0/4 | Not started | - |
 | 3. CMS Integration | 0/TBD | Not started | - |
 | 4. Launch | 0/TBD | Not started | - |
