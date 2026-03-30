@@ -75,13 +75,37 @@
 
 | Requirement | Phase | Status |
 |-------------|-------|--------|
-| (Populated during roadmap creation) | | |
+| DESGN-01 | Phase 1 | Pending |
+| DESGN-02 | Phase 1 | Pending |
+| DESGN-03 | Phase 1 | Pending |
+| DESGN-04 | Phase 1 | Pending |
+| IMG-01 | Phase 1 | Pending |
+| IMG-02 | Phase 1 | Pending |
+| IMG-03 | Phase 1 | Pending |
+| PAGE-01 | Phase 2 | Pending |
+| PAGE-02 | Phase 2 | Pending |
+| PAGE-03 | Phase 2 | Pending |
+| PAGE-04 | Phase 2 | Pending |
+| PAGE-05 | Phase 2 | Pending |
+| PAGE-06 | Phase 2 | Pending |
+| PAGE-07 | Phase 2 | Pending |
+| PAGE-08 | Phase 2 | Pending |
+| PAGE-09 | Phase 2 | Pending |
+| PAGE-10 | Phase 2 | Pending |
+| PAGE-11 | Phase 2 | Pending |
+| CMS-01 | Phase 3 | Pending |
+| CMS-02 | Phase 3 | Pending |
+| CMS-03 | Phase 3 | Pending |
+| INFRA-01 | Phase 4 | Pending |
+| INFRA-02 | Phase 4 | Pending |
+| INFRA-03 | Phase 4 | Pending |
+| INFRA-04 | Phase 4 | Pending |
 
 **Coverage:**
-- v1 requirements: 18 total
-- Mapped to phases: 0
-- Unmapped: 18
+- v1 requirements: 25 total
+- Mapped to phases: 25
+- Unmapped: 0
 
 ---
 *Requirements defined: 2026-03-30*
-*Last updated: 2026-03-30 after initial definition*
+*Last updated: 2026-03-30 after roadmap creation (traceability populated)*
