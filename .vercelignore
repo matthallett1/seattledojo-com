@@ -1,0 +1,7 @@
+# Scraped WordPress images — not needed for build, stays local
+content/images/
+
+# Dev tooling
+.claude/
+.gstack/
+.planning/
