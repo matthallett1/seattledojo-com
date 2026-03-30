@@ -34,7 +34,7 @@ Plans:
 - [x] 01-01-PLAN.md — Curate and copy 13 dojo photos to public/images/ with clean filenames
 - [x] 01-02-PLAN.md — Extend globals.css with full DESIGN.md token set + create Section component
 - [x] 01-03-PLAN.md — Build sticky Header with desktop nav and mobile hamburger menu
-- [ ] 01-04-PLAN.md — Footer + Layout wrapper, wire into layout.tsx, hero real photo, dark mode verify
+- [x] 01-04-PLAN.md — Footer + Layout wrapper, wire into layout.tsx, hero real photo, dark mode verify
 **UI hint**: yes
 
 ### Phase 2: Content Pages

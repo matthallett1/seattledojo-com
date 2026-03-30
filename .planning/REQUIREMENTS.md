@@ -24,13 +24,13 @@
 - [x] **DESGN-01**: All pages follow DESIGN.md system (Sumi Ink + Persimmon, Instrument Serif + DM Sans)
 - [x] **DESGN-02**: Responsive mobile-first layout works on phone, tablet, and desktop
 - [x] **DESGN-03**: Shared navigation header and footer across all pages
-- [ ] **DESGN-04**: Dark mode support via CSS custom properties and prefers-color-scheme
+- [x] **DESGN-04**: Dark mode support via CSS custom properties and prefers-color-scheme
 
 ### Images
 
 - [x] **IMG-01**: Curate ~20-30 key images from scraped WordPress content for hero, instructors, dojo interior, classes
 - [x] **IMG-02**: All images served via Next.js Image component with automatic optimization, lazy loading, responsive srcset
-- [ ] **IMG-03**: Hero section uses real dojo photography (not placeholder)
+- [x] **IMG-03**: Hero section uses real dojo photography (not placeholder)
 
 ### CMS
 
@@ -78,10 +78,10 @@
 | DESGN-01 | Phase 1 | Complete |
 | DESGN-02 | Phase 1 | Complete |
 | DESGN-03 | Phase 1 | Complete |
-| DESGN-04 | Phase 1 | Pending |
+| DESGN-04 | Phase 1 | Complete |
 | IMG-01 | Phase 1 | Complete |
 | IMG-02 | Phase 1 | Complete |
-| IMG-03 | Phase 1 | Pending |
+| IMG-03 | Phase 1 | Complete |
 | PAGE-01 | Phase 2 | Pending |
 | PAGE-02 | Phase 2 | Pending |
 | PAGE-03 | Phase 2 | Pending |
