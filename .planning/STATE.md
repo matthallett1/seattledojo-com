@@ -3,13 +3,13 @@ gsd_state_version: 1.0
 milestone: v1.0
 milestone_name: milestone
 status: Ready to execute
-stopped_at: Completed 01-design-foundation 01-02-PLAN.md
-last_updated: "2026-03-30T20:17:15.795Z"
+stopped_at: Completed 01-design-foundation 01-01-PLAN.md
+last_updated: "2026-03-30T20:19:58.752Z"
 progress:
   total_phases: 4
   completed_phases: 0
   total_plans: 4
-  completed_plans: 2
+  completed_plans: 3
 ---
 
 # Project State
@@ -24,7 +24,7 @@ See: .planning/PROJECT.md (updated 2026-03-30)
 ## Current Position
 
 Phase: 01 (design-foundation) — EXECUTING
-Plan: 3 of 4
+Plan: 4 of 4
 
 ## Performance Metrics
 
@@ -48,6 +48,7 @@ Plan: 3 of 4
 *Updated after each plan completion*
 | Phase 01-design-foundation P03 | 1 | 1 tasks | 1 files |
 | Phase 01-design-foundation P02 | 2 | 2 tasks | 2 files |
+| Phase 01-design-foundation P01 | 4min | 2 tasks | 14 files |
 
 ## Accumulated Context
 
@@ -61,6 +62,8 @@ Recent decisions affecting current work:
 - [Phase 01-design-foundation]: Header uses plain <a> tags over Next.js Link until App Router wired in Layout (Plan 04)
 - [Phase 01-design-foundation]: Section component uses max-w-[1200px] (DESIGN.md exact value) not max-w-6xl (960px)
 - [Phase 01-design-foundation]: fullBleed prop uses outer/inner element structure for edge-to-edge backgrounds with constrained content
+- [Phase 01-design-foundation]: Used Seattle-Dojo-Interior.jpg for dojo-exterior-2 — plan referenced cropped variant that does not exist in source
+- [Phase 01-design-foundation]: Manifest dimensions use actual pixel values from file command, not plan estimates — more accurate for CLS prevention
 
 ### Pending Todos
 
@@ -73,6 +76,6 @@ None yet.
 
 ## Session Continuity
 
-Last session: 2026-03-30T20:17:15.792Z
-Stopped at: Completed 01-design-foundation 01-02-PLAN.md
+Last session: 2026-03-30T20:19:58.749Z
+Stopped at: Completed 01-design-foundation 01-01-PLAN.md
 Resume file: None

@@ -31,7 +31,7 @@ Decimal phases appear between their surrounding integers in numeric order.
   5. Dark mode renders correctly across all shared components when the OS preference is set to dark
 **Plans**: 4 plans
 Plans:
-- [ ] 01-01-PLAN.md — Curate and copy 13 dojo photos to public/images/ with clean filenames
+- [x] 01-01-PLAN.md — Curate and copy 13 dojo photos to public/images/ with clean filenames
 - [x] 01-02-PLAN.md — Extend globals.css with full DESIGN.md token set + create Section component
 - [x] 01-03-PLAN.md — Build sticky Header with desktop nav and mobile hamburger menu
 - [ ] 01-04-PLAN.md — Footer + Layout wrapper, wire into layout.tsx, hero real photo, dark mode verify
@@ -78,7 +78,7 @@ Phases execute in numeric order: 1 → 2 → 3 → 4
 
 | Phase | Plans Complete | Status | Completed |
 |-------|----------------|--------|-----------|
-| 1. Design Foundation | 2/4 | In Progress|  |
+| 1. Design Foundation | 3/4 | In Progress|  |
 | 2. Content Pages | 0/TBD | Not started | - |
 | 3. CMS Integration | 0/TBD | Not started | - |
 | 4. Launch | 0/TBD | Not started | - |
