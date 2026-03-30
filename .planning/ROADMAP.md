@@ -32,8 +32,8 @@ Decimal phases appear between their surrounding integers in numeric order.
 **Plans**: 4 plans
 Plans:
 - [ ] 01-01-PLAN.md — Curate and copy 13 dojo photos to public/images/ with clean filenames
-- [ ] 01-02-PLAN.md — Extend globals.css with full DESIGN.md token set + create Section component
-- [ ] 01-03-PLAN.md — Build sticky Header with desktop nav and mobile hamburger menu
+- [x] 01-02-PLAN.md — Extend globals.css with full DESIGN.md token set + create Section component
+- [x] 01-03-PLAN.md — Build sticky Header with desktop nav and mobile hamburger menu
 - [ ] 01-04-PLAN.md — Footer + Layout wrapper, wire into layout.tsx, hero real photo, dark mode verify
 **UI hint**: yes
 
