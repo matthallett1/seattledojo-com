@@ -29,7 +29,12 @@ Decimal phases appear between their surrounding integers in numeric order.
   3. A curated set of 20-30 real dojo photos is committed to the repo and served through Next.js Image with responsive srcset and lazy loading
   4. The hero section on the homepage displays an actual dojo photograph (not a placeholder)
   5. Dark mode renders correctly across all shared components when the OS preference is set to dark
-**Plans**: TBD
+**Plans**: 4 plans
+Plans:
+- [ ] 01-01-PLAN.md — Curate and copy 13 dojo photos to public/images/ with clean filenames
+- [ ] 01-02-PLAN.md — Extend globals.css with full DESIGN.md token set + create Section component
+- [ ] 01-03-PLAN.md — Build sticky Header with desktop nav and mobile hamburger menu
+- [ ] 01-04-PLAN.md — Footer + Layout wrapper, wire into layout.tsx, hero real photo, dark mode verify
 **UI hint**: yes
 
 ### Phase 2: Content Pages
