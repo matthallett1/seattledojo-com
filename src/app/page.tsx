@@ -49,10 +49,10 @@ export default function Home() {
         <div className="grid md:grid-cols-2 gap-10 md:gap-16 items-center">
           <div className="relative aspect-[4/3] rounded-lg overflow-hidden">
             <Image
-              {...IMAGES.historySection}
+              src={IMAGES.historySection.src}
+              alt={IMAGES.historySection.alt}
               fill
               className="object-cover"
-              alt={IMAGES.historySection.alt}
             />
           </div>
           <div>
@@ -123,10 +123,10 @@ export default function Home() {
           </div>
           <div className="order-1 md:order-2 relative aspect-[4/3] rounded-lg overflow-hidden">
             <Image
-              {...IMAGES.kidsActivities}
+              src={IMAGES.kidsActivities.src}
+              alt={IMAGES.kidsActivities.alt}
               fill
               className="object-cover"
-              alt={IMAGES.kidsActivities.alt}
             />
           </div>
         </div>
