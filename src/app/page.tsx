@@ -237,8 +237,17 @@ export default function Home() {
               </a>
             </div>
           </div>
-          <div className="bg-[#FAF6F1]/10 rounded-lg aspect-[4/3] flex items-center justify-center text-[#FAF6F1]/40 text-sm">
-            [ Google Maps embed ]
+          <div className="rounded-lg aspect-[4/3] overflow-hidden border border-[#FAF6F1]/20">
+            <iframe
+              src="https://maps.google.com/maps?q=1510+S+Washington+St+Seattle+WA+98144&output=embed"
+              width="100%"
+              height="100%"
+              style={{ border: 0 }}
+              allowFullScreen
+              loading="lazy"
+              referrerPolicy="no-referrer-when-downgrade"
+              title="Seattle Dojo location map"
+            />
           </div>
         </div>
       </Section>
