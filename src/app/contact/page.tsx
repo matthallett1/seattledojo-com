@@ -113,8 +113,7 @@ export default function ContactPage() {
 
         <form
           action="mailto:SeattleDojoJudo@gmail.com"
-          method="post"
-          encType="text/plain"
+          method="get"
           className="max-w-lg space-y-6"
         >
           <div className="flex flex-col gap-1.5">
